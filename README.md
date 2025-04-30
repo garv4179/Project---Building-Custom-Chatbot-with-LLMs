@@ -62,7 +62,7 @@ To get started with ShopAssist AI, follow these steps:
    cd GenAI_based_ShopAssist AI 2.0
    ```
 2. **Lunch VS Code from Anaconda**
-   - In VS Code go to `File` > `Open Folder...` and select the `ShopassistAI` folder.
+   - In VS Code go to `File` > `Open Folder...` and select the `GenAI_based_ShopAssist AI 2.0` folder.
    - Open a terminal in VS Code (``Ctrl+` `` or go to `Terminal` > `New Terminal`).
 2. **Install dependencies:**
 ```   
